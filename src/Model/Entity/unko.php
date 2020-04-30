@@ -3,7 +3,7 @@ namespace App\Model\Entity;
 
 use Cake\ORM\Entity;
 
-class Pers extends Entity
+class Unko extends Entity
 {
     protected $_accessible = [
         'name' => true,
